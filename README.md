@@ -1,7 +1,10 @@
 # QuickMenu
-Rust based program you can execute whenever you want and willl pipe data into a rofi-like app launcher
+Rust or python based program you can execute whenever you want and willl pipe data into a rofi-like app launcher
 
 Project hasn't even started yet !
+
+I will decide between rust or python depending on the available libraries, I already have
+a few modules in my config written in python that i would just have to translate. 
 
 # Functionalities
 - Desktop, app launcher agnostic
