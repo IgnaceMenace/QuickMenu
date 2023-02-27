@@ -3,9 +3,6 @@ Rust based program you can execute whenever you want and will pipe data into a r
 
 The project is not ready yet
 
-I will decide between rust or python depending on the available libraries, I already have
-a few modules in my config written in python that i would just have to translate. 
-
 # Functionalities
 - Desktop, app launcher agnostic
   - Should work on whatever linux desktop
